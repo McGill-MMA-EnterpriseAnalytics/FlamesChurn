@@ -29,5 +29,5 @@
 # Conclusion 
     - Based on our model prediction we conclude:
         1. Rejecting the null hypothesis, using Tenure, Payment Method, Paperless billing and the number of servives currently activated by the customer we can predict customer churn.
-        2. Focus on reatining customers on contract between 10 and 40 months 
+        2. Focus on retaining customers on contract between 10 and 40 months 
         3. As customers with longer tenures are less likely to churn, telco companies should avoid providing month to month incentive packages.
